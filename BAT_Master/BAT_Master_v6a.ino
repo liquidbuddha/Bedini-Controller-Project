@@ -1,6 +1,6 @@
   
   /*
-     Bedini Auto Tuner - User Interface v 6
+     Bedini Auto Tuner - User Interface v 6a
      by Goa Lobaugh - aka liquidbuddha
   
      Arduino / Bedini Pulse Controller, for use with 3-pole monopole kit
